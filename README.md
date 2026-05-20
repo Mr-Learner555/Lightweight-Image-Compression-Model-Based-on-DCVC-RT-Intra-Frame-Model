@@ -33,7 +33,7 @@ We evaluate our model on three widely used international image compression bench
     <td><img src="docs/figures/fig4-1_msssim.png" width="400"/></td>
   </tr>
 </table>
-> Upload your paper's Figure 4-1, split into two separate images named `fig4-1_psnr.png` and `fig4-1_msssim.png`
+
 
 #### CLIC Professional Validation Set (2K resolution images)
 <table>
@@ -46,7 +46,6 @@ We evaluate our model on three widely used international image compression bench
     <td><img src="docs/figures/fig4-2_msssim.png" width="400"/></td>
   </tr>
 </table>
-> Upload your paper's Figure 4-2, split into two separate images named `fig4-2_psnr.png` and `fig4-2_msssim.png`
 
 #### Tecnick Test Set (1200×1200 resolution images)
 <table>
@@ -59,7 +58,7 @@ We evaluate our model on three widely used international image compression bench
     <td><img src="docs/figures/fig4-3_msssim.png" width="400"/></td>
   </tr>
 </table>
-> Upload your paper's Figure 4-3, split into two separate images named `fig4-3_psnr.png` and `fig4-3_msssim.png`
+
 
 ### Reconstruction Visualization (qp=56)
 Comparison of original image, original DCVC-RT reconstruction and our lightweight model reconstruction at qp=56 (bpp≈0.268):
