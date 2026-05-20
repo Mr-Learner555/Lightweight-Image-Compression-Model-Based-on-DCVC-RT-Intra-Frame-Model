@@ -137,8 +137,8 @@ Comparison of original image, original DCVC-RT reconstruction and our lightweigh
     ├── kodak/
     └── tecnick/
 ```
-## ⚙️ Environment Setup
-This project directly reuses the official DCVC-RT runtime environment. Please refer to the DCVC-RT official repository for detailed environment configuration instructions.
+## ⚙️ Environment Setup & Checkpoints
+This project directly reuses the official DCVC-RT runtime environment. Please refer to the DCVC-RT official repository for detailed environment configuration instructions.The checkpoints of the original model (cvpr2025_image.pth.tar) and the lightweight model (prune_dmci.pth.tar) are available at [checkpoints](https://1drv.ms/f/c/1CCBB39A928013B9/IgBjHK5uMuQMRKs9jSNUSmqKATHlKflQqCSLkBlYiU9bFxY?e=Mrsxpl).
 
 ## 📄 Citation
 If this work is helpful for your research, please cite the original DCVC-RT paper:
