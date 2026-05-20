@@ -1,0 +1,578 @@
+[
+    {
+        "qp": 0,
+        "Average bpp": 0.03199878808864264,
+        "Average psnr": 27.397171042691408,
+        "Average msssim": 0.8967430491163745,
+        "Encoding latency": 0.169200918674469,
+        "Decoding latency": 0.22135540962219238,
+        "Count": 100
+    },
+    {
+        "qp": 1,
+        "Average bpp": 0.033619286703601106,
+        "Average psnr": 27.589118436213916,
+        "Average msssim": 0.9007028082301454,
+        "Encoding latency": 0.1675041913986206,
+        "Decoding latency": 0.22729671955108643,
+        "Count": 100
+    },
+    {
+        "qp": 2,
+        "Average bpp": 0.03512606042243767,
+        "Average psnr": 27.730638923404463,
+        "Average msssim": 0.9037650291870274,
+        "Encoding latency": 0.16767799139022826,
+        "Decoding latency": 0.2261834192276001,
+        "Count": 100
+    },
+    {
+        "qp": 3,
+        "Average bpp": 0.03708232340720222,
+        "Average psnr": 27.921090073386786,
+        "Average msssim": 0.9074376542821564,
+        "Encoding latency": 0.16693615674972534,
+        "Decoding latency": 0.2236635184288025,
+        "Count": 100
+    },
+    {
+        "qp": 4,
+        "Average bpp": 0.03906991213642658,
+        "Average psnr": 28.093176120566017,
+        "Average msssim": 0.9108044057001753,
+        "Encoding latency": 0.16780637979507446,
+        "Decoding latency": 0.22491365671157837,
+        "Count": 100
+    },
+    {
+        "qp": 5,
+        "Average bpp": 0.04114071156509693,
+        "Average psnr": 28.26502729773735,
+        "Average msssim": 0.913939757185822,
+        "Encoding latency": 0.16785137176513673,
+        "Decoding latency": 0.22563351154327393,
+        "Count": 100
+    },
+    {
+        "qp": 6,
+        "Average bpp": 0.04329688582063711,
+        "Average psnr": 28.446877971090174,
+        "Average msssim": 0.9171338617615277,
+        "Encoding latency": 0.16776150226593017,
+        "Decoding latency": 0.22840107202529908,
+        "Count": 100
+    },
+    {
+        "qp": 7,
+        "Average bpp": 0.045052101367728525,
+        "Average psnr": 28.624578400363067,
+        "Average msssim": 0.9202556642180617,
+        "Encoding latency": 0.16742681264877318,
+        "Decoding latency": 0.2248180890083313,
+        "Count": 100
+    },
+    {
+        "qp": 8,
+        "Average bpp": 0.04729191914819943,
+        "Average psnr": 28.81719584171804,
+        "Average msssim": 0.9233416100284214,
+        "Encoding latency": 0.1672998285293579,
+        "Decoding latency": 0.2233388376235962,
+        "Count": 100
+    },
+    {
+        "qp": 9,
+        "Average bpp": 0.04969685985110805,
+        "Average psnr": 28.970784749048022,
+        "Average msssim": 0.9259581416053476,
+        "Encoding latency": 0.16733603954315185,
+        "Decoding latency": 0.2259586000442505,
+        "Count": 100
+    },
+    {
+        "qp": 10,
+        "Average bpp": 0.05256930618074793,
+        "Average psnr": 29.157403815090152,
+        "Average msssim": 0.9288946455328323,
+        "Encoding latency": 0.1679630994796753,
+        "Decoding latency": 0.2283783435821533,
+        "Count": 100
+    },
+    {
+        "qp": 11,
+        "Average bpp": 0.05554979657202215,
+        "Average psnr": 29.36163258854435,
+        "Average msssim": 0.9318423465965551,
+        "Encoding latency": 0.16782034873962404,
+        "Decoding latency": 0.22717713832855224,
+        "Count": 100
+    },
+    {
+        "qp": 12,
+        "Average bpp": 0.05821026662049866,
+        "Average psnr": 29.513726972965646,
+        "Average msssim": 0.9340944499889678,
+        "Encoding latency": 0.16782827615737916,
+        "Decoding latency": 0.2262503218650818,
+        "Count": 100
+    },
+    {
+        "qp": 13,
+        "Average bpp": 0.06159009262465375,
+        "Average psnr": 29.7035910959879,
+        "Average msssim": 0.936765674118437,
+        "Encoding latency": 0.16769417762756347,
+        "Decoding latency": 0.22708718299865724,
+        "Count": 100
+    },
+    {
+        "qp": 14,
+        "Average bpp": 0.06494210959141275,
+        "Average psnr": 29.901559020704283,
+        "Average msssim": 0.9393553204585305,
+        "Encoding latency": 0.16781782388687133,
+        "Decoding latency": 0.22898918390274048,
+        "Count": 100
+    },
+    {
+        "qp": 15,
+        "Average bpp": 0.06801814620844875,
+        "Average psnr": 30.060658366209953,
+        "Average msssim": 0.9413760480281607,
+        "Encoding latency": 0.16757431745529175,
+        "Decoding latency": 0.22764705181121825,
+        "Count": 100
+    },
+    {
+        "qp": 16,
+        "Average bpp": 0.07191325095221607,
+        "Average psnr": 30.252311457899367,
+        "Average msssim": 0.9438027025920054,
+        "Encoding latency": 0.16765925407409668,
+        "Decoding latency": 0.2263522982597351,
+        "Count": 100
+    },
+    {
+        "qp": 17,
+        "Average bpp": 0.07570041984072022,
+        "Average psnr": 30.445606485230382,
+        "Average msssim": 0.9460001996794101,
+        "Encoding latency": 0.16754841089248657,
+        "Decoding latency": 0.22647030591964723,
+        "Count": 100
+    },
+    {
+        "qp": 18,
+        "Average bpp": 0.07925223987188365,
+        "Average psnr": 30.606151940650506,
+        "Average msssim": 0.9479185560314324,
+        "Encoding latency": 0.167077260017395,
+        "Decoding latency": 0.22290209770202637,
+        "Count": 100
+    },
+    {
+        "qp": 19,
+        "Average bpp": 0.08390359894390581,
+        "Average psnr": 30.803462745961433,
+        "Average msssim": 0.9500885084745527,
+        "Encoding latency": 0.16732315778732298,
+        "Decoding latency": 0.2240961527824402,
+        "Count": 100
+    },
+    {
+        "qp": 20,
+        "Average bpp": 0.08805028350069255,
+        "Average psnr": 30.98426907014115,
+        "Average msssim": 0.9520471375476245,
+        "Encoding latency": 0.16773449182510375,
+        "Decoding latency": 0.22689239501953126,
+        "Count": 100
+    },
+    {
+        "qp": 21,
+        "Average bpp": 0.09233011599722994,
+        "Average psnr": 31.15566854891063,
+        "Average msssim": 0.9537609324142196,
+        "Encoding latency": 0.16780276775360106,
+        "Decoding latency": 0.2265672826766968,
+        "Count": 100
+    },
+    {
+        "qp": 22,
+        "Average bpp": 0.09752218230609416,
+        "Average psnr": 31.35196194968295,
+        "Average msssim": 0.9556684200670912,
+        "Encoding latency": 0.16713809728622436,
+        "Decoding latency": 0.22514191627502442,
+        "Count": 100
+    },
+    {
+        "qp": 23,
+        "Average bpp": 0.1021911249134349,
+        "Average psnr": 31.532643786920875,
+        "Average msssim": 0.9573684882709865,
+        "Encoding latency": 0.16748927116394044,
+        "Decoding latency": 0.22661242723464967,
+        "Count": 100
+    },
+    {
+        "qp": 24,
+        "Average bpp": 0.10718192737188367,
+        "Average psnr": 31.700669072882192,
+        "Average msssim": 0.9588854714789599,
+        "Encoding latency": 0.1676703643798828,
+        "Decoding latency": 0.22671565771102906,
+        "Count": 100
+    },
+    {
+        "qp": 25,
+        "Average bpp": 0.11321562283587261,
+        "Average psnr": 31.90279903457068,
+        "Average msssim": 0.9606012341503408,
+        "Encoding latency": 0.16781017065048218,
+        "Decoding latency": 0.22728561401367187,
+        "Count": 100
+    },
+    {
+        "qp": 26,
+        "Average bpp": 0.1182247121710527,
+        "Average psnr": 32.07360769347656,
+        "Average msssim": 0.9619937279066104,
+        "Encoding latency": 0.16753348112106323,
+        "Decoding latency": 0.22241169929504395,
+        "Count": 100
+    },
+    {
+        "qp": 27,
+        "Average bpp": 0.12403025450138508,
+        "Average psnr": 32.24144371962673,
+        "Average msssim": 0.9633557280981104,
+        "Encoding latency": 0.16716523408889772,
+        "Decoding latency": 0.22354121923446654,
+        "Count": 100
+    },
+    {
+        "qp": 28,
+        "Average bpp": 0.13049688365650974,
+        "Average psnr": 32.43633048546085,
+        "Average msssim": 0.9648302128618401,
+        "Encoding latency": 0.1675921082496643,
+        "Decoding latency": 0.22779973983764648,
+        "Count": 100
+    },
+    {
+        "qp": 29,
+        "Average bpp": 0.13614109028739613,
+        "Average psnr": 32.595707803960266,
+        "Average msssim": 0.9660064288406883,
+        "Encoding latency": 0.16787598848342897,
+        "Decoding latency": 0.22829840898513795,
+        "Count": 100
+    },
+    {
+        "qp": 30,
+        "Average bpp": 0.1433376255193906,
+        "Average psnr": 32.78504619414488,
+        "Average msssim": 0.9673234056138638,
+        "Encoding latency": 0.1673539972305298,
+        "Decoding latency": 0.22392784357070922,
+        "Count": 100
+    },
+    {
+        "qp": 31,
+        "Average bpp": 0.15035756795360108,
+        "Average psnr": 32.973939872373286,
+        "Average msssim": 0.9685974088798236,
+        "Encoding latency": 0.1672403931617737,
+        "Decoding latency": 0.22349241256713867,
+        "Count": 100
+    },
+    {
+        "qp": 32,
+        "Average bpp": 0.15666778479916893,
+        "Average psnr": 33.11984373057629,
+        "Average msssim": 0.9695892575235296,
+        "Encoding latency": 0.16781777143478394,
+        "Decoding latency": 0.22583451509475708,
+        "Count": 100
+    },
+    {
+        "qp": 33,
+        "Average bpp": 0.16519785534972298,
+        "Average psnr": 33.32310767919505,
+        "Average msssim": 0.970821825590876,
+        "Encoding latency": 0.16792322874069213,
+        "Decoding latency": 0.22629717350006104,
+        "Count": 100
+    },
+    {
+        "qp": 34,
+        "Average bpp": 0.17179200571329653,
+        "Average psnr": 33.479643325180284,
+        "Average msssim": 0.9717526459662735,
+        "Encoding latency": 0.16765337467193603,
+        "Decoding latency": 0.22827793836593627,
+        "Count": 100
+    },
+    {
+        "qp": 35,
+        "Average bpp": 0.1806679579293629,
+        "Average psnr": 33.66703213511254,
+        "Average msssim": 0.9728058069183657,
+        "Encoding latency": 0.1675369143486023,
+        "Decoding latency": 0.2269654417037964,
+        "Count": 100
+    },
+    {
+        "qp": 36,
+        "Average bpp": 0.18912390711565094,
+        "Average psnr": 33.85121047154014,
+        "Average msssim": 0.9738024882286226,
+        "Encoding latency": 0.16754427194595337,
+        "Decoding latency": 0.2268470859527588,
+        "Count": 100
+    },
+    {
+        "qp": 37,
+        "Average bpp": 0.19715817607340713,
+        "Average psnr": 34.004546332251266,
+        "Average msssim": 0.9746128890274676,
+        "Encoding latency": 0.16790874004364015,
+        "Decoding latency": 0.22757725954055785,
+        "Count": 100
+    },
+    {
+        "qp": 38,
+        "Average bpp": 0.2073098273026316,
+        "Average psnr": 34.20026751424964,
+        "Average msssim": 0.9755822640872968,
+        "Encoding latency": 0.167766535282135,
+        "Decoding latency": 0.22745638370513915,
+        "Count": 100
+    },
+    {
+        "qp": 39,
+        "Average bpp": 0.21542124740304713,
+        "Average psnr": 34.354742632973256,
+        "Average msssim": 0.9763222111346538,
+        "Encoding latency": 0.1679415249824524,
+        "Decoding latency": 0.22761226892471315,
+        "Count": 100
+    },
+    {
+        "qp": 40,
+        "Average bpp": 0.22632109158587255,
+        "Average psnr": 34.542801289257255,
+        "Average msssim": 0.9771845587042176,
+        "Encoding latency": 0.16779070377349853,
+        "Decoding latency": 0.22677371740341187,
+        "Count": 100
+    },
+    {
+        "qp": 41,
+        "Average bpp": 0.2351546810076176,
+        "Average psnr": 34.69643215406706,
+        "Average msssim": 0.9778791798732273,
+        "Encoding latency": 0.16813474178314208,
+        "Decoding latency": 0.2288246488571167,
+        "Count": 100
+    },
+    {
+        "qp": 42,
+        "Average bpp": 0.24667243767313032,
+        "Average psnr": 34.87788438396385,
+        "Average msssim": 0.9786340718943262,
+        "Encoding latency": 0.16778229236602782,
+        "Decoding latency": 0.22631601095199586,
+        "Count": 100
+    },
+    {
+        "qp": 43,
+        "Average bpp": 0.2571548216759002,
+        "Average psnr": 35.04579341495528,
+        "Average msssim": 0.9793232804790777,
+        "Encoding latency": 0.1681245231628418,
+        "Decoding latency": 0.22612979412078857,
+        "Count": 100
+    },
+    {
+        "qp": 44,
+        "Average bpp": 0.2689643027181441,
+        "Average psnr": 35.2151055544668,
+        "Average msssim": 0.9799862200431545,
+        "Encoding latency": 0.16787759304046632,
+        "Decoding latency": 0.2283540177345276,
+        "Count": 100
+    },
+    {
+        "qp": 45,
+        "Average bpp": 0.2805207431613573,
+        "Average psnr": 35.38561757067841,
+        "Average msssim": 0.9806322749495773,
+        "Encoding latency": 0.16825298070907593,
+        "Decoding latency": 0.22851056098937989,
+        "Count": 100
+    },
+    {
+        "qp": 46,
+        "Average bpp": 0.292799515235457,
+        "Average psnr": 35.547240406273346,
+        "Average msssim": 0.981216076332119,
+        "Encoding latency": 0.1676366662979126,
+        "Decoding latency": 0.22658994913101196,
+        "Count": 100
+    },
+    {
+        "qp": 47,
+        "Average bpp": 0.30556646035318574,
+        "Average psnr": 35.72018778007107,
+        "Average msssim": 0.981827853434837,
+        "Encoding latency": 0.16771873712539673,
+        "Decoding latency": 0.22596962451934816,
+        "Count": 100
+    },
+    {
+        "qp": 48,
+        "Average bpp": 0.3190006059556787,
+        "Average psnr": 35.88292479472895,
+        "Average msssim": 0.9823708327129477,
+        "Encoding latency": 0.16792240619659424,
+        "Decoding latency": 0.2279263687133789,
+        "Count": 100
+    },
+    {
+        "qp": 49,
+        "Average bpp": 0.33174515235457064,
+        "Average psnr": 36.04136821617202,
+        "Average msssim": 0.9828995385585457,
+        "Encoding latency": 0.16787700176239015,
+        "Decoding latency": 0.22613999128341675,
+        "Count": 100
+    },
+    {
+        "qp": 50,
+        "Average bpp": 0.3468051527873961,
+        "Average psnr": 36.20640233742341,
+        "Average msssim": 0.983423344057095,
+        "Encoding latency": 0.16810010194778444,
+        "Decoding latency": 0.22740093231201172,
+        "Count": 100
+    },
+    {
+        "qp": 51,
+        "Average bpp": 0.3600868897160666,
+        "Average psnr": 36.35420648369793,
+        "Average msssim": 0.9838881962186703,
+        "Encoding latency": 0.16803015470504762,
+        "Decoding latency": 0.22693626165390016,
+        "Count": 100
+    },
+    {
+        "qp": 52,
+        "Average bpp": 0.37734472385734075,
+        "Average psnr": 36.52871158560861,
+        "Average msssim": 0.9844299598872603,
+        "Encoding latency": 0.16766573667526244,
+        "Decoding latency": 0.22799485445022583,
+        "Count": 100
+    },
+    {
+        "qp": 53,
+        "Average bpp": 0.3925786119286704,
+        "Average psnr": 36.67504319569022,
+        "Average msssim": 0.9848697428246277,
+        "Encoding latency": 0.16814447164535523,
+        "Decoding latency": 0.2281609892845154,
+        "Count": 100
+    },
+    {
+        "qp": 54,
+        "Average bpp": 0.4093528176939059,
+        "Average psnr": 36.83659667976001,
+        "Average msssim": 0.9853518080233455,
+        "Encoding latency": 0.1677548909187317,
+        "Decoding latency": 0.22767059087753297,
+        "Count": 100
+    },
+    {
+        "qp": 55,
+        "Average bpp": 0.4272096282029086,
+        "Average psnr": 36.99390788503624,
+        "Average msssim": 0.9858161909183252,
+        "Encoding latency": 0.16810221672058107,
+        "Decoding latency": 0.22727057456970215,
+        "Count": 100
+    },
+    {
+        "qp": 56,
+        "Average bpp": 0.4434613595048479,
+        "Average psnr": 37.13432428316853,
+        "Average msssim": 0.9862164576239322,
+        "Encoding latency": 0.1682688570022583,
+        "Decoding latency": 0.22553914070129394,
+        "Count": 100
+    },
+    {
+        "qp": 57,
+        "Average bpp": 0.46253294884002755,
+        "Average psnr": 37.29193416128225,
+        "Average msssim": 0.9866737130760241,
+        "Encoding latency": 0.16798856258392333,
+        "Decoding latency": 0.22794104099273682,
+        "Count": 100
+    },
+    {
+        "qp": 58,
+        "Average bpp": 0.48200317044667573,
+        "Average psnr": 37.441655573148864,
+        "Average msssim": 0.9870955998268177,
+        "Encoding latency": 0.1684789228439331,
+        "Decoding latency": 0.2278751850128174,
+        "Count": 100
+    },
+    {
+        "qp": 59,
+        "Average bpp": 0.5005776056094181,
+        "Average psnr": 37.58084831520139,
+        "Average msssim": 0.98747371707375,
+        "Encoding latency": 0.16812461137771606,
+        "Decoding latency": 0.22767978191375732,
+        "Count": 100
+    },
+    {
+        "qp": 60,
+        "Average bpp": 0.519602936720914,
+        "Average psnr": 37.72168815959968,
+        "Average msssim": 0.9878507500055876,
+        "Encoding latency": 0.1686069917678833,
+        "Decoding latency": 0.23069435596466065,
+        "Count": 100
+    },
+    {
+        "qp": 61,
+        "Average bpp": 0.5407623138850416,
+        "Average psnr": 37.86651142239913,
+        "Average msssim": 0.9882291966787088,
+        "Encoding latency": 0.16831038475036622,
+        "Decoding latency": 0.23038219213485717,
+        "Count": 100
+    },
+    {
+        "qp": 62,
+        "Average bpp": 0.5607303930055402,
+        "Average psnr": 37.99549639169667,
+        "Average msssim": 0.9885614349892852,
+        "Encoding latency": 0.16839075565338135,
+        "Decoding latency": 0.2287473726272583,
+        "Count": 100
+    },
+    {
+        "qp": 63,
+        "Average bpp": 0.5809339832929362,
+        "Average psnr": 38.12115350807203,
+        "Average msssim": 0.9888769966292135,
+        "Encoding latency": 0.1680341672897339,
+        "Decoding latency": 0.22837842464447022,
+        "Count": 100
+    }
+]

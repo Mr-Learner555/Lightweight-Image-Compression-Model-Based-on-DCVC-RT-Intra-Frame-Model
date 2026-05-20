@@ -1,0 +1,4 @@
+# ninja log v5
+0	18549	1770208992659209228	/home/learner/DCVC/src/layers/extensions/inference/build/temp.linux-x86_64-cpython-312/impl.o	d1594ee3da0bc56e
+0	19769	1770208993879210065	/home/learner/DCVC/src/layers/extensions/inference/build/temp.linux-x86_64-cpython-312/bind.o	de335011e6c7388f
+1	42488	1770209016591216731	/home/learner/DCVC/src/layers/extensions/inference/build/temp.linux-x86_64-cpython-312/kernel.o	23c23032a8c1b6e8
