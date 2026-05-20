@@ -74,7 +74,6 @@ Comparison of original image, original DCVC-RT reconstruction and our lightweigh
     <td><img src="docs/figures/fig4-10_lightweight_qp56.png" width="300"/></td>
   </tr>
 </table>
-> Upload three separate images: original image (kodim23.png), original model reconstruction at qp=56, and our lightweight model reconstruction at qp=56
 
 ---
 
@@ -92,7 +91,6 @@ Comparison of original image, original DCVC-RT reconstruction and our lightweigh
 
 #### Step 2: Two-Stage Explicit-Implicit Distillation
 ![Distillation Pipeline](docs/figures/fig3-6.png)
-> Upload your paper's Figure 3-6 (the proposed two-stage distillation scheme) as `fig3-6.png`
 
 1.  **Decoder Implicit End-to-End Distillation**
     - Embed the student decoder into the frozen teacher model pipeline
